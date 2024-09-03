@@ -1,5 +1,5 @@
 //
-// Created by Aaryan Javalekar's Laptop Lenovo Legion 5 on 18-06-2024.
+// Created by Aayush Patil's Laptop Lenovo Legion 5 on 18-05-2024.
 //
 // This main function only shows the implementation of IDA* Solver using Bitboard representation and the rest of the part is commented out
 
@@ -33,7 +33,7 @@ int main() {
     cout << "\n";
 
 
-    string fileName = R"(C:\Users\Lenovo\CLionProjects\RubiksCubeSolverV1\Databases\yoyo.txt)";
+    string fileName = R"(C:\Users\Aayush\Desktop\placement projects\RubiksCubeSolverV3\Databases\yoyo.txt)";
 
 
     // DFSSolver<RubiksCubeBitboard, HashBitboard> dfsSolver(cube);
@@ -57,6 +57,6 @@ int main() {
     // dbMaker.bfsAndStore();
 
 
-    cout << "yoyo"; //tells us everything went right
+    cout << "yoyo"; //tells us everything  went right
     return 0;
 }
